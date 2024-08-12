@@ -23,8 +23,6 @@ After letting the script run for a couple of weeks I [combined](https://www.redd
 7.  Open the Group Policy Editor
 8.  Create a new policy, scope to Domain Computers
 9.  Go to ‘Windows Settings -\> Scripts (Startup/Shutdown)-\> Startup
-
-    Add the HWID.cmd script to Startup Scripts
-
-10. Scope to Domain Computers
-11. Done!
+10. Add the HWID.cmd script to Startup Scripts
+11. Scope to Domain Computers
+12. Done!
